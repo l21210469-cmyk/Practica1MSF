@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Preciado Hernandez Andres \ [21210469]; l21210469@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
